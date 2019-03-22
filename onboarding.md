@@ -29,10 +29,23 @@ If an issue can't be resolved via GitHub, often a conversation is had in Slack. 
 whenever possible, conversations be had in public channels instead of in direct messages. This gives
 everybody a chance to particpate and gives those in different timezones a record of what happened.
 
+At the start of every day, please post what you plan to do that day in the `#stack-monitoring-news`
+channel
+
+## Slack channels
+
+`#stack-monitoring`: This channel is for general topics related to Stack Monitoring. It is often
+where questions are asked by the rest of the company about monitoring.
+
+`#stack-monitoring-news`: This channel is used for daily updates. Please avoid cluttering it
+with discussion topics.
+
+Other important channels can be found in the [Ingest onboarding guides](https://github.com/elastic/ingest-dev/tree/master/onboarding).
+
 ## Project management
 
-Issues are organized into releases using the [Stack Monitoring Project Board](https://github.com/orgs/elastic/projects/74). What's there are targets and not typically hard deadlines. If an issue does have
-a hard deadline, it will be identified as such.
+Issues are organized into releases using the [Stack Monitoring Project Board](https://github.com/orgs/elastic/projects/74).
+What's there are targets and not typically hard deadlines. If an issue does have a hard deadline, it will be identified as such.
 
 ## GitHub labels specific to Stack Monitoring
 
@@ -44,8 +57,11 @@ In the Logstash repo, the label is `monitoring`.
 Forums should be monitored and questions answered promptly. The forums are:
 
 [Kibana forum with the Monitoring tag](https://discuss.elastic.co/tags/c/kibana/monitoring)
+
 [Beats forum with the Monitoring tag](https://discuss.elastic.co/tags/c/beats/monitoring)
+
 [Logstash forum with the Monitoring tag](https://discuss.elastic.co/tags/c/logstash/monitoring)
+
 [Elastic forum with the Monitoring tag](https://discuss.elastic.co/tags/c/elasticsearch/monitoring)
 
 Sometimes, issues are not tagged correctly and have nothing to do with Stack Monitoring. There is
