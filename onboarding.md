@@ -40,7 +40,7 @@ where questions are asked by the rest of the company about monitoring.
 `#stack-monitoring-news`: This channel is used for daily updates. Please avoid cluttering it
 with discussion topics.
 
-Other important channels can be found in the [Ingest onboarding guides](https://github.com/elastic/ingest-dev/tree/master/onboarding).`
+Other important channels can be found in the [Ingest onboarding guides](https://github.com/elastic/ingest-dev/tree/master/onboarding).
 
 ## Project management
 
