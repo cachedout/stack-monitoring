@@ -57,8 +57,11 @@ In the Logstash repo, the label is `monitoring`.
 Forums should be monitored and questions answered promptly. The forums are:
 
 [Kibana forum with the Monitoring tag](https://discuss.elastic.co/tags/c/kibana/monitoring)
+
 [Beats forum with the Monitoring tag](https://discuss.elastic.co/tags/c/beats/monitoring)
+
 [Logstash forum with the Monitoring tag](https://discuss.elastic.co/tags/c/logstash/monitoring)
+
 [Elastic forum with the Monitoring tag](https://discuss.elastic.co/tags/c/elasticsearch/monitoring)
 
 Sometimes, issues are not tagged correctly and have nothing to do with Stack Monitoring. There is
