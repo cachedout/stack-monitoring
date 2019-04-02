@@ -67,4 +67,12 @@ Forums should be monitored and questions answered promptly. The forums are:
 Sometimes, issues are not tagged correctly and have nothing to do with Stack Monitoring. There is
 not a need to answer those unless you wish.
 
+## SDH duty
 
+It is critical that all engineers keep a close eye on support issues which may be escalated to the
+Stack Monitoring team. Any comment on an issue involving the team will result in a comment in the
+`#stack-monitoring` Slack channel by a bot called Dr. Strange.
+
+Support escalations are raised by the support team in the https://github.com/elastic/support-dev-help
+repo. An easy way to follow monitoring-related issues is just to filter by the the `monitoring` tag
+or to [view this page](https://github.com/elastic/support-dev-help/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Amonitoring).
