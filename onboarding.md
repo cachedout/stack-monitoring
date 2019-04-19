@@ -52,7 +52,22 @@ What's there are targets and not typically hard deadlines. If an issue does have
 In the Kibana repo, the label is `:Monitoring`. In Beat it is either `monitoring` or `Stack monitoring`.
 In the Logstash repo, the label is `monitoring`.
 
+## SDH duty
+
+SDH stands for Support Dev Help. It's a GitHub repo that Support Engineers use to escalate issues to the Development team
+by opening issues. Read more about it [here](https://wiki.elastic.co/x/DIZIAw).
+
+It is critical that all engineers keep a close eye on support issues which may be escalated to the
+Stack Monitoring team. Any comment on an issue involving the team will result in a comment in the
+`#stack-monitoring` Slack channel by a bot called Dr. Strange.
+
+Support escalations are raised by the support team in the https://github.com/elastic/support-dev-help
+repo. An easy way to follow monitoring-related issues is just to filter by the the `monitoring` tag
+or to [view this page](https://github.com/elastic/support-dev-help/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Amonitoring).
+
 ## Discuss forums
+
+Discuss forums are public discussion forums for Elastic's products and solutions, hosted by us at https://discuss.elastic.co.
 
 Forums should be monitored and questions answered promptly. The forums are:
 
@@ -65,14 +80,6 @@ Forums should be monitored and questions answered promptly. The forums are:
 [Elastic forum with the Monitoring tag](https://discuss.elastic.co/tags/c/elasticsearch/monitoring)
 
 Sometimes, issues are not tagged correctly and have nothing to do with Stack Monitoring. There is
-not a need to answer those unless you wish.
+not a need to answer those unless you wish. Feel free to re-tag such issues so they get re-routed
+to the appropriate teams.
 
-## SDH duty
-
-It is critical that all engineers keep a close eye on support issues which may be escalated to the
-Stack Monitoring team. Any comment on an issue involving the team will result in a comment in the
-`#stack-monitoring` Slack channel by a bot called Dr. Strange.
-
-Support escalations are raised by the support team in the https://github.com/elastic/support-dev-help
-repo. An easy way to follow monitoring-related issues is just to filter by the the `monitoring` tag
-or to [view this page](https://github.com/elastic/support-dev-help/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Amonitoring).
