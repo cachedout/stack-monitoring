@@ -83,3 +83,12 @@ Sometimes, issues are not tagged correctly and have nothing to do with Stack Mon
 not a need to answer those unless you wish. Feel free to re-tag such issues so they get re-routed
 to the appropriate teams.
 
+Support escalations are raised by the support team in the https://github.com/elastic/support-dev-help
+repo. An easy way to follow monitoring-related issues is just to filter by the the `monitoring` tag
+or to [view this page](https://github.com/elastic/support-dev-help/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Amonitoring).
+
+## Parity tests
+
+Stack Monitoring has a series of parity tests and it is important that each team member pay close
+attention to any test failure and quickly address them. Test results are emailed nightly and
+additional information is [available here](https://github.com/elastic/elastic-stack-testing/playbooks/monitoring/README.md)
